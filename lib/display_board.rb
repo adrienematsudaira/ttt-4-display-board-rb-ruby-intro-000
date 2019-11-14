@@ -6,7 +6,6 @@ def display_board(board)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-  board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
 end
 
 def display_board(board)
