@@ -6,4 +6,6 @@ def display_board(board)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
+  board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
+  puts "The first color is #{colors[0]}"
 end
