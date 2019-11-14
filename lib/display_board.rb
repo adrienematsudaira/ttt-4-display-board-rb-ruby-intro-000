@@ -12,5 +12,3 @@ end
 def display_board(board)
 board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
 end
-
-
