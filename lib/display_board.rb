@@ -7,5 +7,5 @@ def display_board(board)
   puts "-----------"
   puts "   |   |   "
   board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
-  puts "The first color is #{colors[0]}"
+  puts "#{board[0]}"
 end
